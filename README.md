@@ -8,4 +8,5 @@ I’m driven by the curiosity to comprehend individuals and appreciate their inh
 - [API Implementation](https://medium.com/@gabriella.annunziatana/api-implementation-9c3dcd08cb3e) 
 
 Check my [Portfolio](https://gabriellannunziata.github.io/)
+
 More information in my [LinkedIn](https://www.linkedin.com/in/gabriella-annunziata-b15a84250/) 
